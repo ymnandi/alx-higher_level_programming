@@ -1,1 +1,1 @@
-0x06-python-classed
+0x06-python-classes
