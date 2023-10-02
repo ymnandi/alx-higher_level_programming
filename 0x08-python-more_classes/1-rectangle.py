@@ -8,12 +8,12 @@ class Rectangle:
         """Instantiation with optional width and height"""
         self.__width = width
         self.__height = height
-    
+
     @property
     def width(self):
         """Retrieve width"""
         return self.__width
-    
+
     @width.setter
     def width(self, value):
         """Sets width"""
@@ -23,7 +23,7 @@ class Rectangle:
     def height(self):
         """Retrieve height"""
         return self.__height
-    
+
     @height.setter
     def height(self, value):
         """Sets height"""
